@@ -60,3 +60,7 @@ print(full)
 full = np.full((3,3),5)
 print(full)
 
+#  ======= IDENTITY MATRIX =======
+
+a = np.eye(5,5)
+print(a)
