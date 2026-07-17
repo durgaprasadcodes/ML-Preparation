@@ -222,7 +222,7 @@ ML-Journey/
 
 * GitHub: https://github.com/durgaprasadcodes
 * LinkedIn: Add Your LinkedIn Profile
-* Portfolio: https://durgaprasad4289.github.io/PORTFOLIO/
+* Portfolio: https://durgaprasadcodes.vercel.app
 
 ---
 
