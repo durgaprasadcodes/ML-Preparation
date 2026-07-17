@@ -25,3 +25,13 @@ print(a.ndim)
 
 a = np.random.randint(0,15,10).reshape(-1,2)
 print(a)
+
+
+# ======= FLATTEN ========
+a = np.arange(10).reshape(2,-1)
+
+print(a)
+
+a = a.flatten()
+
+print(a)
