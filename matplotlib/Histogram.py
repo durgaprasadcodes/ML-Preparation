@@ -15,3 +15,4 @@ plt.ylabel("Frequency")
 plt.title("Data Distribution")
 
 plt.show()
+
