@@ -84,6 +84,10 @@ This repository contains my complete learning journey from **NumPy fundamentals*
 * F1 Score
 * ROC-AUC
 * Hyperparameter Tuning
+* Cross-validation
+* Hyperparameter tuning
+* Pipelines and ColumnTransformer
+* Gradient Boosting / XGBoost basics
 
 ### Phase 8: Feature Engineering
 
